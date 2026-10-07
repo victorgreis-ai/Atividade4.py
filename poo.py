@@ -21,7 +21,7 @@ class Estudante:
 
 estudantes = []
 def cadastrar():
-    nome = input("Nome dp estudante: ")
+    nome = input("Nome do estudante: ")
     nota1 = float(input("Nota 1: "))
     nota2 = float(input("Nota 2: "))
 
